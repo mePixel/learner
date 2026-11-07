@@ -1,0 +1,508 @@
+[
+  {
+    "id": "innovation-definition",
+    "topic": "Innovation",
+    "question": "Was macht eine Idee zur Innovation?",
+    "answer": "Eine Innovation setzt eine neue Idee erfolgreich um und schafft einen Nutzen. Neuheit allein genügt nicht: Die Idee muss verwertet werden und Wert für Unternehmen und Kunden schaffen.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "successful exploitation of new ideas“ (Bessant &Tidd 2015) „Executing an idea which adresses a specific challenge and achieves value for both the company and the customer.“ (Idea to Value.com) \"Innovation is essentially a two-sided or coupling activity … On the one hand, it involves the recognition of a need or more precisely, in",
+      "page": 4
+    }
+  },
+  {
+    "id": "functional-fixation",
+    "topic": "Innovation",
+    "question": "Was bedeutet funktionale Fixierung?",
+    "answer": "Menschen betrachten Dinge vor allem in ihrer gewohnten Funktion. Diese kognitive Verzerrung erschwert es, neue Anwendungen zu erkennen und Probleme auf ungewohnte Weise zu lösen.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Tendenz von Menschen, Dinge ausschließlich im Sinne ihrer üblichen Funktion zu sehen (= kognitive Verzerrung) • Dadurch wird das Erkennen neuer Funktionen und Bewältigen von Problemen behindert.",
+      "page": 10
+    }
+  },
+  {
+    "id": "market-research-limits",
+    "topic": "Innovation",
+    "question": "Warum kann klassische Marktforschung bei radikalen Innovationen an Grenzen stoßen?",
+    "answer": "Funktionale Fixierung kann Kunden daran hindern, neuartige Bedürfnisse zu formulieren. Deshalb erfasst klassische Marktforschung nicht immer die Möglichkeiten radikaler Innovationen.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Blinder Fleck in der Fähigkeit, Neues zu entwickeln (Entwickler) oder neuartige Bedürfnisse zu formulieren (Kunden) • Folge: klassische Marktforschung für (insbesondere radikale) Innovationen oft wenig hilfreich Duncker's Candle Problem: Quelle: Stangl, Online Lexikon für Psychologie und Pädagogik,",
+      "page": 10
+    }
+  },
+  {
+    "id": "innovation-properties",
+    "topic": "Innovation",
+    "question": "Welche vier Eigenschaften machen Innovationsprojekte besonders anspruchsvoll?",
+    "answer": "Innovationsprojekte sind neuartig, komplex, unsicher und konfliktbehaftet. Bei radikalen Innovationen sind diese Eigenschaften besonders stark ausgeprägt.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Innovationen sind: • neuartig • komplex • unsicher • konfliktbehaftet Quelle: Thom in Vahs, Innovationsmanagement",
+      "page": 13
+    }
+  },
+  {
+    "id": "incremental-innovation",
+    "topic": "Innovation",
+    "question": "Was kennzeichnet inkrementelle Innovationen?",
+    "answer": "Sie bauen auf bestehenden Produkten, Kompetenzen und Technologien auf. Sie sind näher am heutigen Geschäft, besser planbar und meist leichter an bestehende Kunden zu verkaufen.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Inkrementelle Innovationen bauen auf den bisherigen Produkten/Kompetenzen/ Technologien auf und sind daher: - Risikoärmer (besser planbar) - Näher am heutigen Geschäft - wirtschaftlich besser beurteilbar - Leichter verkaufbar an die bestehenden Kunden auf den bestehenden Distributionskanälen mit dem bestehenden Verkaufspersonal Radikale",
+      "page": 15
+    }
+  },
+  {
+    "id": "radical-innovation",
+    "topic": "Innovation",
+    "question": "Was kennzeichnet radikale Innovationen?",
+    "answer": "Sie haben einen hohen Neuheitsgrad und beruhen häufig auf neuen Technologien. Sie sind schwerer planbar, weiter von bisherigen Kernkompetenzen entfernt und können neue Märkte sowie tiefgreifende Veränderungen im Unternehmen auslösen.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Radikale Innovationen weisen einen hohen Neuheitsgrad auf, basieren oft auf neuen Technologien sind daher: - Risikoreicher (kaum planbar) - Weiter vom heutigen Geschäft & Kernkompetenzen entfernt (können an derzeitigen Kunden vorbeizielen, jedoch zur Entstehung neuer Märkte führen) - Schlechter mit Controlling Instrumenten bewertbar -",
+      "page": 15
+    }
+  },
+  {
+    "id": "technology-role",
+    "topic": "Innovation",
+    "question": "Muss Technologie bei jeder Innovation die Hauptrolle spielen?",
+    "answer": "Nein. Abhängig von der Innovation kann Technologie eine Haupt- oder Nebenrolle spielen, etwa bei Geschäftsmodellinnovationen, sozialen Innovationen oder Systeminnovationen.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Technologie kann eine Haupt- oder Nebenrolle spielen … es kommt auf die Innovation an! Nespresso - Geschäftsmodellinnovation Google Lens Life Übersetzung Shades Tours – Soziale Innovation Öffi Packerl -",
+      "page": 17
+    }
+  },
+  {
+    "id": "tmo-framework",
+    "topic": "Innovation",
+    "question": "Wofür stehen die drei Bereiche im T-M-O-Framework?",
+    "answer": "Technology Dynamics: technologisches Wissen und Fähigkeiten. Markets: Marktverständnis und Marktgestaltung. Organisational Capabilities: Organisation und Rahmenbedingungen. Innovation entsteht an ihren Schnittstellen.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "T-M-O Framework – die 3 „Zutaten“ für erfolgreiche Innovation Organisational Capabilities Organisation & Rahmenbedingungen (Nascent) Markets Marktverständnis & - Gestaltung Technology Dynamics Technologisches Wissen & - Fähigkeiten Technologische Veränderungen können bestehende Wertschöpfungslogiken verändern und neue Möglichkeiten",
+      "page": 18
+    }
+  },
+  {
+    "id": "technology-push",
+    "topic": "Innovation",
+    "question": "Was ist der Ausgangspunkt von Technology Push?",
+    "answer": "Neue Technologien, neues Wissen oder F&E-Aktivitäten lösen Innovationen aus. Der Anbieter treibt die Entwicklung; die Herausforderung besteht darin, passende Anwendungen oder einen neuen Markt zu schaffen.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Anbieter ist Treiber der Innovation • Initiierung durch Entwicklung neuer Technologien, Wissen, F&E Aktivitäten • Herausforderung: Schaffung eines Anwendungsbereiches oder eines neuen Marktes • Markt bzw.",
+      "page": 33
+    }
+  },
+  {
+    "id": "market-pull",
+    "topic": "Innovation",
+    "question": "Was ist der Ausgangspunkt von Market Pull?",
+    "answer": "Der Markt und artikulierte oder verborgene Kundenbedürfnisse treiben die Innovation. Ein Bedarf besteht bereits; die passende Lösung muss noch entwickelt werden.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Markt bzw. Kundenbedürfnisse sind Treiber der Innovation • Initiierung durch (artikulierte und versteckte) Kundenbedürfnisse • Herausforderung: Markt ist vorhanden, während das Produkt erst entwickelt werden",
+      "page": 33
+    }
+  },
+  {
+    "id": "push-risk",
+    "topic": "Innovation",
+    "question": "Welche wesentlichen Risiken hat Technology Push?",
+    "answer": "Es besteht die Gefahr, keinen Markt zu finden. Die Realisierung kann lange dauern, hohe Entwicklungskosten verursachen und mit hohen Risiken verbunden sein.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Gefahr, keinen Markt zu finden • zeitraubende Realisation, hohe Entwicklungskosten • hohe Risiken • schnelle Realisierung • unmittelbare Steuerung vom Markt her möglich • geringeres Risiko • eher kleine Innovationsschritte • geringe Ertragspotenziale, falls nicht kontinuierlich",
+      "page": 34
+    }
+  },
+  {
+    "id": "pull-benefits",
+    "topic": "Innovation",
+    "question": "Welche Vorteile nennt die Vorlesung für Market Pull?",
+    "answer": "Die Realisierung ist häufig schneller, eine unmittelbare Steuerung vom Markt ist möglich und das Risiko ist geringer. Die Innovationsschritte sind dafür eher klein.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "schnelle Realisierung • unmittelbare Steuerung vom Markt her möglich • geringeres Risiko • eher kleine Innovationsschritte • geringe Ertragspotenziale, falls nicht kontinuierlich",
+      "page": 34
+    }
+  },
+  {
+    "id": "balanced-portfolio",
+    "topic": "Innovation",
+    "question": "Warum sollte ein Innovationsportfolio Technology Push und Market Pull verbinden?",
+    "answer": "Beide Ansätze haben unterschiedliche Chancen und Risiken. Ein ausgewogenes Portfolio berücksichtigt sowohl technologische Möglichkeiten als auch den Markt.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Deshalb: ausgewogenes Innovationsportfolio, das Markt und Technologie inkludiert! • große Innovationsschritte • hohe Ertragspotenziale • Gefahr, keinen Markt zu finden • zeitraubende Realisation, hohe Entwicklungskosten • hohe Risiken • schnelle Realisierung • unmittelbare Steuerung vom Markt her möglich • geringeres Risiko • eher kleine",
+      "page": 34
+    }
+  },
+  {
+    "id": "original-needs",
+    "topic": "Innovation",
+    "question": "Wie unterscheiden sich originäre von artikulierten Kundenbedürfnissen?",
+    "answer": "Artikulierte Bedürfnisse orientieren sich oft an bestehenden Lösungen. Originäre Bedürfnisse liegen tiefer und sind noch nicht ausgesprochen; sie können neue Innovationen und langfristige Wettbewerbsvorteile ermöglichen.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Originäre Bedürfnisse: - Tieferliegend und nicht artikuliert - Quelle für echte Innovationen - Langfristige Wettbewerbsvorteile - Hohe WertsteigerungQuelle: u.a.",
+      "page": 30
+    }
+  },
+  {
+    "id": "additive-manufacturing",
+    "topic": "Innovation",
+    "question": "Welche Möglichkeiten eröffnet 3D-Druck laut Vorlesung?",
+    "answer": "Rasches Prototyping, individuelles Design und die dezentrale Herstellung von Bau- und Ersatzteilen. Daraus können neue Geschäftsmodelle entstehen, etwa 3D-Druck-Dienstleistungen oder Ersatzteilproduktion.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Auswirkung/Vorteile: rasches Prototyping, individuelles Design, Bau- und Ersatzteile können dezentral hergestellt werden → weniger Warentransport • Branchen: Luft- und Raumfahrt, Automobil, Maschinenbau, Lebensmittelindustrie, Medizin, Architektur & Kunst, Consumer… • Neue Geschäftsmodelle: Scanning & Design von 3D druckbaren Objekten,",
+      "page": 21
+    }
+  },
+  {
+    "id": "customer-value",
+    "topic": "Innovation",
+    "question": "Was sollte bei Technology Push und Market Pull im Mittelpunkt stehen?",
+    "answer": "Der Wert für den Kunden. Beide Ausgangspunkte sind möglich; entscheidend ist, welches unerfüllte Kundenbedürfnis die Lösung anspricht und wie dadurch Kunden- und Geschäftswert entsteht.",
+    "source": {
+      "file": "Sources/Foliensatz_1. LE TIM.pdf",
+      "quote": "Letztendlich sollte der Aspekt “Wert für den Kunden schaffen“ über allem anderen stehen.",
+      "page": 36
+    }
+  },
+  {
+    "id": "lifecycle-purpose",
+    "topic": "Lebenszyklusmodelle",
+    "question": "Wozu dienen Technologielebenszyklus-Modelle?",
+    "answer": "Sie helfen, die Position einer Technologie im Lebenszyklus und ihre zukünftige Relevanz einzuschätzen. Damit unterstützen sie strategische Entscheidungen im Innovations- und Technologiemanagement.",
+    "source": {
+      "file": "Sources/Technologielebenszyklus_Modelle.pdf",
+      "quote": "Technologielebenszyklus- Modelle sind Instrumente des strategischen Innovations- und Technologiemanagements, um die Position einer Technologie in ihrem Lebenszyklus und damit ihre (Zukunfts)Relevanz bestimmen zu können.",
+      "page": 1
+    }
+  },
+  {
+    "id": "adl-axes",
+    "topic": "Lebenszyklusmodelle",
+    "question": "Was stellen die Achsen im Technologielebenszyklus von Arthur D. Little dar?",
+    "answer": "Die x-Achse zeigt die Lebensphase der Technologie oder die Zeit. Die y-Achse zeigt den Grad der Erreichung des Wettbewerbspotenzials oder die Verbreitung der Technologie.",
+    "source": {
+      "file": "Sources/Technologielebenszyklus_Modelle.pdf",
+      "quote": "Auf der x-Achse des Modells ist meist die Lebensphase der Technologie (oder die Zeit) dargestellt, auf der auf der y-Achse der Grad der Erreichung des Wettbewerbspotenzials oder die Verbreitung der Technologie.",
+      "page": 1
+    }
+  },
+  {
+    "id": "future-technologies",
+    "topic": "Lebenszyklusmodelle",
+    "question": "Was sind Zukunftstechnologien?",
+    "answer": "Technologien in einem sehr frühen Entwicklungsstadium, teilweise noch in der Grundlagenforschung. Sie sind am Markt noch nicht vertreten; ob sie sich durchsetzen, ist sehr unsicher.",
+    "source": {
+      "file": "Sources/Technologielebenszyklus_Modelle.pdf",
+      "quote": "Zukunftstechnologien“ (oder embryonische Technologien).",
+      "page": 1
+    }
+  },
+  {
+    "id": "parallel-technologies",
+    "topic": "Lebenszyklusmodelle",
+    "question": "Warum sind in einem Markt oft mehrere Technologieklassen gleichzeitig im Einsatz?",
+    "answer": "Verschiedene Technologien bedienen unterschiedliche Segmente. Eine einzelne Technologie kann nicht alle Bedürfnisse aller Kundengruppen gleichermaßen befriedigen.",
+    "source": {
+      "file": "Sources/Technologielebenszyklus_Modelle.pdf",
+      "quote": "In den meisten Märkten sind Technologien unterschiedlicher Technologieklassen parallel im Einsatz, die auch unterschiedliche Segmente bedienen – da nicht eine Technologie alle Bedürfnisse alle Kundengruppen gleichermaßen befriedigen kann.",
+      "page": 2
+    }
+  },
+  {
+    "id": "s-curve-axes",
+    "topic": "Lebenszyklusmodelle",
+    "question": "Was stellt das S-Kurven-Konzept dar?",
+    "answer": "Es zeigt die Leistungsfähigkeit oder Erträge einer Technologie auf der y-Achse in Abhängigkeit von investierten Ressourcen oder Zeit auf der x-Achse.",
+    "source": {
+      "file": "Sources/Technologielebenszyklus_Modelle.pdf",
+      "quote": "Dieses Modell baut auf dem Technologielebenszyklus von Arthur D.",
+      "page": 2
+    }
+  },
+  {
+    "id": "mature-investment",
+    "topic": "Lebenszyklusmodelle",
+    "question": "Was passiert bei zunehmender Technologiereife mit dem F&E-Aufwand?",
+    "answer": "Für kleine zusätzliche Leistungssteigerungen werden immer höhere F&E-Investitionen benötigt. Das S-Kurven-Konzept unterstützt deshalb Überlegungen zum Wechsel auf eine Substitutionstechnologie.",
+    "source": {
+      "file": "Sources/Technologielebenszyklus_Modelle.pdf",
+      "quote": "Das Modell verdeutlicht, dass mit zunehmender Technologiereife immer höhere F&E-Investitionen notwendig sind, um inkrementale Steigerungen der Leistungsfähigkeit zu erzielen.",
+      "page": 2
+    }
+  },
+  {
+    "id": "s-curve-limits",
+    "topic": "Lebenszyklusmodelle",
+    "question": "Warum liefert die S-Kurve keinen sicheren Zeitpunkt für einen Technologiewechsel?",
+    "answer": "Die Verläufe sind erst im Nachhinein erkennbar. Zudem können Pfadabhängigkeiten den Wechsel behindern. Das Modell bietet deshalb einen Anhaltspunkt und keine sichere Prognose.",
+    "source": {
+      "file": "Sources/Technologielebenszyklus_Modelle.pdf",
+      "quote": "Auch wenn Modelle wie die S-Kurve einen ersten Anhaltspunkt bieten, sind Verläufe erst im Nachhinein erkennbar.",
+      "page": 2
+    }
+  },
+  {
+    "id": "disruptive-technology",
+    "topic": "Lebenszyklusmodelle",
+    "question": "Welche scheinbar paradoxe Entwicklung beschreibt das Konzept disruptiver Technologien?",
+    "answer": "Eine anfangs deutlich unterlegene Technologie kann etablierte Technologien unerwartet aus dem Markt drängen, besonders in weit entwickelten Märkten mit hochgradig erfüllten Kundenbedürfnissen.",
+    "source": {
+      "file": "Sources/Technologielebenszyklus_Modelle.pdf",
+      "quote": "Insbesondere in weit entwickelten Märkten, in denen Kundenbedürfnisse sehr hochgradig und ausdifferenziert erfüllt werden, kommt es immer wieder zu einer scheinbar paradoxen Situation, nämlich dass eine zunächst weit unterlegene Technologie jene der etablierten Marktteilnehmer „links außen“ überholt und diese völlig unerwartet aus dem",
+      "page": 2
+    }
+  },
+  {
+    "id": "hype-cycle-axes",
+    "topic": "Lebenszyklusmodelle",
+    "question": "Welche Perspektive ergänzt der Gartner Hype Cycle?",
+    "answer": "Er bezieht Erwartungen und Aufmerksamkeit ein. Die y-Achse zeigt Erwartungen an eine Technologie beziehungsweise öffentliche Aufmerksamkeit; die x-Achse zeigt die Zeit.",
+    "source": {
+      "file": "Sources/Technologielebenszyklus_Modelle.pdf",
+      "quote": "Ein spannendes Modell, das auch die Nachfrager-Sicht integriert, ist der Hype Cycle vom Marktdatenunternehmen Gartner.",
+      "page": 3
+    }
+  },
+  {
+    "id": "model-limits",
+    "topic": "Lebenszyklusmodelle",
+    "question": "Welche grundsätzliche Grenze haben Lebenszyklusmodelle?",
+    "answer": "Sie beschreiben idealtypische Verläufe und verallgemeinern Beobachtungen. Einzelne Technologien können sich anders entwickeln; die Modelle helfen bei Einschätzungen, garantieren aber keinen bestimmten Verlauf.",
+    "source": {
+      "file": "Sources/Technologielebenszyklus_Modelle.pdf",
+      "quote": "Es ist wichtig, im Hinterkopf zu haben, dass alle Modelle idealtypische Entwicklungsverläufe von Technologien darstellen.",
+      "page": 3
+    }
+  },
+  {
+    "id": "management-aspects",
+    "topic": "Technologiemanagement",
+    "question": "Welche fünf prozessartigen Aspekte umfasst Technologiemanagement?",
+    "answer": "Technologiefrühaufklärung, Technologieplanung, Technologieentwicklung, Technologieverwertung und Technologieschutz. Die Technologiebewertung begleitet diese Aspekte phasenübergreifend.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Die einzelnen Aspekte des Technologiemanagements bauen auch logisch ein wenig aufeinander auf."
+    }
+  },
+  {
+    "id": "foresight-goal",
+    "topic": "Technologiemanagement",
+    "question": "Welches Ziel hat Technologiefrühaufklärung?",
+    "answer": "Veränderungen im Unternehmensumfeld frühzeitig erkennen, die technologische Chancen oder Risiken darstellen. Das bereitet das Unternehmen auf Entwicklungen vor und schafft eine Grundlage für die Technologieplanung.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Bei der Technologiefrühaufklärung geht es in erster Linie darum, das gesamte Umfeld, das Unternehmens zu beobachten und Veränderungen zu identifizieren."
+    }
+  },
+  {
+    "id": "scanning",
+    "topic": "Technologiemanagement",
+    "question": "Was bedeutet Technologie-Scanning?",
+    "answer": "Die Umwelt bewusst breit und möglichst unvoreingenommen beobachten, auch über das aktuelle Geschäft und den bestehenden Markt hinaus. Ziel ist, relevante Signale und Entwicklungen zu entdecken.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Technologie Scanning. Wir haben hier das Bild des Weltraumradars."
+    }
+  },
+  {
+    "id": "monitoring",
+    "topic": "Technologiemanagement",
+    "question": "Was bedeutet Technologie-Monitoring?",
+    "answer": "Bereits erkannte Signale, Trends oder Entwicklungen genauer beobachten. So lässt sich einschätzen, ob und wie relevant sie für das eigene Unternehmen werden.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Dann gibt es das Monitoring, das Beobachten."
+    }
+  },
+  {
+    "id": "scouting",
+    "topic": "Technologiemanagement",
+    "question": "Was bedeutet Technologie-Scouting?",
+    "answer": "Zu einem abgegrenzten Bereich, etwa einer Technologie, einem Anwendungsfeld oder Trend, gezielt detaillierte Informationen beschaffen.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Scouting, Detailinformationen beschaffen. Hier nimmt man sich einen bestimmten Teilbereich heraus, zum Beispiel eine bestimmte Technologie oder einen Anwendungsbereich oder einen Trend und versucht hier ganz gezielt, möglichst detailliert Informationen zu beschaffen."
+    }
+  },
+  {
+    "id": "technology-plan",
+    "topic": "Technologiemanagement",
+    "question": "Was ist ein typisches Ergebnis der Technologieplanung?",
+    "answer": "Ein Technologieplan, häufig in Form einer Technologieroadmap. Die Planung konkretisiert, welche Technologien für zukünftige Innovationsziele und Produkte benötigt werden.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Ergebnis der Technologieplanung ist ein Technologieplan."
+    }
+  },
+  {
+    "id": "technology-development",
+    "topic": "Technologiemanagement",
+    "question": "Was ist die zentrale Aufgabe der Technologieentwicklung?",
+    "answer": "Die Vorgaben der Planung konkret umsetzen: neue Technologien entwickeln oder anpassen und bestehende Technologien verbessern. Dabei sind Startzeitpunkte und Abbruchbedingungen festzulegen.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Bei der Technologieentwicklung geht es nun darum, die Vorgaben, die bei der Technologieentwicklung und der Technologieplanung entschieden worden sind, konkret umzusetzen."
+    }
+  },
+  {
+    "id": "technology-exploitation",
+    "topic": "Technologiemanagement",
+    "question": "Wozu dient Technologieverwertung?",
+    "answer": "Aus Technologien nachhaltige Wettbewerbsvorteile und zusätzliche Erträge erzielen. Neben interner Nutzung kann die externe Verwertung durch Kooperationen, Lizenzen oder Technologieverkauf erfolgen.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Ein weiterer Aspekt des Technologiemanagements ist die Technologieverwertung, wo es um die zentrale Frage geht, wie können wir das meiste aus unseren Technologien herausholen, wie können wir noch besser nachhaltige Wettbewerbsvorteile generieren, aber auch wie können wir möglicherweise noch zusätzlich extern unsere Technologien verwerten"
+    }
+  },
+  {
+    "id": "protection-purpose",
+    "topic": "Technologiemanagement",
+    "question": "Was soll Technologieschutz verhindern?",
+    "answer": "Den unrechtmäßigen Übergang von technologischem Know-how an Wettbewerber und die Imitation von Produkten oder Technologien.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Technologieschutz ist in erster Linie der Schutz vor dem Know-how-Übergang an die Wettbewerber."
+    }
+  },
+  {
+    "id": "imitation-financing",
+    "topic": "Technologiemanagement",
+    "question": "Wie gefährden Imitationen die Innovationsfinanzierung?",
+    "answer": "Imitatoren ziehen Erlöse ab, mit denen das Originalunternehmen seine Entwicklungsinvestitionen und eine angemessene Rentabilität erwirtschaften müsste. Dadurch wird der Kreislauf der Innovationsfinanzierung gestört.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Produktimitationen den Kreislauf der Innovationsfinanzierung unterbrechen."
+    }
+  },
+  {
+    "id": "chinese-walls",
+    "topic": "Technologiemanagement",
+    "question": "Was sind Chinese Walls im Technologieschutz?",
+    "answer": "Bewusste Informationsbarrieren innerhalb eines Unternehmens oder entlang der Lieferkette. Wissen wird aufgeteilt, sodass einzelne Beteiligte keinen vollständigen Überblick über die Technologie haben.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Chinese Walls sind bewusst implementierte Informationsbarrieren, einerseits innerhalb des Unternehmens, dass die eine Abteilung nicht genau weiß, was die andere Abteilung macht, oder innerhalb der Supply Chain, sodass die Lieferanten nicht genau wissen, wofür sie die Komponenten produzieren und auch nachgelagert, dass die Abnehmer in der"
+    }
+  },
+  {
+    "id": "release-management",
+    "topic": "Technologiemanagement",
+    "question": "Wie kann Release Management Imitationen unattraktiver machen?",
+    "answer": "Durch kurze Produktmarktzyklen und regelmäßige Nachfolgeprodukte. Während ein Imitator eine Version kopiert, ist das Originalunternehmen bereits mit der nächsten Version am Markt.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "durch gezieltes, geschicktes Release Management, indem man nämlich den Produktmarktzyklus bewusst kurz haltet und in kurzen Zeitabständen Nachfolgeprodukte am Markt platziert, die dann geringe Veränderungen haben."
+    }
+  },
+  {
+    "id": "mass-customization",
+    "topic": "Technologiemanagement",
+    "question": "Warum kann Mass Customization Imitatoren behindern?",
+    "answer": "Individuell angepasste Produkte und die Erfassung von Kundenbedürfnissen verlangen zusätzliche Fähigkeiten und direkten Kundenkontakt. Das erschwert Imitatoren das Kopieren des gesamten Angebots.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Mass Customization ist eine weitere Möglichkeit."
+    }
+  },
+  {
+    "id": "reverse-engineering",
+    "topic": "Technologiemanagement",
+    "question": "Was bedeutet Reverse Engineering?",
+    "answer": "Man geht vom fertigen Produkt aus, zerlegt und analysiert es, um seinen Aufbau und seine Funktionsweise zu verstehen. Der Weg führt also vom Produkt zum Plan.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Es ist quasi Entwicklung vom anderen Ende aus. Man geht von einem fertigen Produkt aus und zerlegt es, um zu verstehen, wie es aufgebaut ist."
+    }
+  },
+  {
+    "id": "black-box",
+    "topic": "Technologiemanagement",
+    "question": "Wie erschwert eine Blackbox die Imitation?",
+    "answer": "Eine Produktfunktion wird in einer nicht analysierbaren Einheit gekapselt. Das soll verhindern, dass Imitatoren die Funktionsweise durch Reverse Engineering nachvollziehen.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Eine Blackbox bedeutet, dass eine Produktfunktion in eine nicht analysierbare Einheit integriert wird, dass das so komplex gemacht wird oder verteilt wird, dass man das nicht analysieren kann und man, unterscheidet zwischen funktionalen Blackboxes, das heißt, die Produktfunktion, die nicht analysierbar ist, ist wesentlich für den Aufbau"
+    }
+  },
+  {
+    "id": "cross-functional-evaluation",
+    "topic": "Technologiemanagement",
+    "question": "Warum ist Technologiebewertung eine Querschnittsfunktion?",
+    "answer": "Sie unterstützt Entscheidungen in allen Phasen. Bewertet werden Technologien, Ideen, Entwicklungsziele sowie Zwischen- und Endergebnisse von Technologieprojekten. Die Methoden hängen von Fragestellung und Informationsstand ab.",
+    "source": {
+      "file": "Sources/Aspekte d Technologiemanagements.txt",
+      "quote": "Technologiebewertung ist in allen diesen Phasen relevant, um Entscheidungen zu unterstützen und läuft parallel zu Aktivitäten und Entscheidungen in jeder Phase mit."
+    }
+  },
+  {
+    "id": "product-cycle",
+    "topic": "Vertiefung",
+    "question": "Welche Phasen nennt die Unterlage beim Produktlebenszyklus?",
+    "answer": "Einführung, Wachstum, Sättigung beziehungsweise Reife und Degeneration beziehungsweise Rückgang oder Elimination. Jede Phase stellt andere Anforderungen an das Unternehmen.",
+    "source": {
+      "file": "Sources/Technologie.docx",
+      "quote": "Einführung: Käufer müssen überzeugt werden, Innovatoren mit meist hohem Einkommen, Umsatz ist niedrig und langsam steigend, hohe Stückkosten (aufgrund tiefer Produktionsmenge)und hohe Vorlaufkosten, Deckungsbeitrag gering und Cash-Flow niedrig, Kapitalbedarf ist hoch, Wettbewerb wenige Unternehmen, Erfolgsaussichten und Risiko hoch,"
+    }
+  },
+  {
+    "id": "relaunch",
+    "topic": "Vertiefung",
+    "question": "Was ist ein Relaunch?",
+    "answer": "Die Wiederbelebung eines Produktes durch Produktmodifikationen oder neue Promotionsanstrengungen. Das kann neues Wachstum auslösen, aber auch zu zusätzlichen Verlusten führen.",
+    "source": {
+      "file": "Sources/Technologie.docx",
+      "quote": "Das ist der Relaunch; der durch Produktmodifikationen oder neue Promotionsanstrengungen geschieht."
+    }
+  },
+  {
+    "id": "industry-cycle",
+    "topic": "Vertiefung",
+    "question": "Wie hängt der Branchenzyklus mit dem Produktlebenszyklus zusammen?",
+    "answer": "Der Branchenzyklus baut auf dem Produktlebenszyklus auf und fasst mehrere Produktlebenszyklen zusammen. Die Phasen einer Branche dauern meist länger als die einzelner Produkte.",
+    "source": {
+      "file": "Sources/Technologie.docx",
+      "quote": "In diesem Konzept lassen sich Branchenentwicklungen aufzeigen. Es baut auf den Produktlebezyklus auf und dieses besteht aus einer Aggregation von mehreren Produktlebenszyklen."
+    }
+  },
+  {
+    "id": "hype-cycle-phases",
+    "topic": "Vertiefung",
+    "question": "Welche fünf Phasen hat der Gartner Hype Cycle?",
+    "answer": "Technologischer Auslöser, Gipfel der überzogenen Erwartungen, Tal der Enttäuschungen, Pfad der Erleuchtung und Plateau der Produktivität.",
+    "source": {
+      "file": "Sources/Technologie.docx",
+      "quote": "5 Phasen Technologischer Auslöser: neue Erfindung oder ein technologischer Durchbruch erregt erste Aufmerksamkeit, oft gibt es einen funktionierenden Prototypen aber keine marktreifen Alltagsprodukte Gipfel der überzogenen Erwartungen: Aufmerksamkeit explodiert; Medien und Werbung überschlag sich mit positiven Berichten; erse"
+    }
+  },
+  {
+    "id": "path-dependence",
+    "topic": "Vertiefung",
+    "question": "Was bedeutet Pfadabhängigkeit bei Technologien?",
+    "answer": "Frühere Entscheidungen können Technologien und Abläufe so stark verfestigen, dass der Wechsel zu effizienteren Alternativen schwierig und teuer wird.",
+    "source": {
+      "file": "Sources/Technologie.docx",
+      "quote": "Wenn sich Technologien in einem Unternehmen so sehr manifestieren, dass es schwierig ist, auf effizientere Alternativen zu wechseln, versucht die Pfadabhängigkeit die Entstehung und Wirkung solcher Pfade und die damit verbundenen Verfestigungen zu erklären."
+    }
+  },
+  {
+    "id": "lock-in",
+    "topic": "Vertiefung",
+    "question": "Welche drei Phasen nennt die Unterlage zur Entwicklung von Pfadabhängigkeit?",
+    "answer": "Präformationsphase: Offenheit und erste richtungsweisende Entscheidungen. Formationsphase: Ein Muster oder Standard bildet sich. Lock-in-Phase: Der Ausbruch ist teuer, schwierig und stößt auf Widerstand.",
+    "source": {
+      "file": "Sources/Technologie.docx",
+      "quote": "Präformationsphase: Zu Beginn herrscht Offenheit und kleine Entscheidungen legen die Richtung fest."
+    }
+  }
+]
