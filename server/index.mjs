@@ -24,7 +24,7 @@ if (dev) {
   app.use((_req, res, next) => {
     res.set(
       'Content-Security-Policy',
-      "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; frame-src 'self'; object-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'",
+      "default-src 'self'; script-src 'self'; connect-src 'self' https: http://localhost:* http://127.0.0.1:* http://[::1]:*; worker-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; frame-src 'self'; object-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'",
     )
     next()
   })

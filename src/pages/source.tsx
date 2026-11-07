@@ -6,7 +6,7 @@ import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert'
 import { Skeleton } from '@/components/ui/skeleton'
 import { AiNotice } from '@/components/ai-notice'
 import { useWorkspace } from '@/lib/workspace'
-import { coursePath, originalPath, request } from '@/lib/api'
+import { askPath, coursePath, originalPath, request } from '@/lib/api'
 import { NotFound } from './workspace'
 
 const normalize = (text: string) => text.replace(/\s+/g, ' ').trim()
@@ -44,7 +44,10 @@ export function SourcePage() {
   }, [original, isText])
   useEffect(() => {
     if (text && card)
-      highlight.current?.scrollIntoView({ behavior: 'smooth', block: 'center' })
+      highlight.current?.scrollIntoView({
+        behavior: 'smooth',
+        block: 'center',
+      })
   }, [text, card?.id])
   if (!course || !source) return <NotFound />
   const fullOriginal =
@@ -68,12 +71,19 @@ export function SourcePage() {
             {card?.source.page ? ` · Page ${card.source.page}` : ''}
           </p>
         </div>
-        <Button variant="outline" asChild>
-          <a href={fullOriginal} target="_blank" rel="noopener noreferrer">
-            Open original
-            <ArrowUpRight data-icon="inline-end" />
-          </a>
-        </Button>
+        <div className="source-page-actions">
+          <Button asChild>
+            <Link to={askPath(course.id, source.file)}>
+              Ask about this source
+            </Link>
+          </Button>
+          <Button variant="outline" asChild>
+            <a href={fullOriginal} target="_blank" rel="noopener noreferrer">
+              Open original
+              <ArrowUpRight data-icon="inline-end" />
+            </a>
+          </Button>
+        </div>
       </div>
       {card && (
         <aside className="source-evidence">

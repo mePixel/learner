@@ -48,6 +48,8 @@ export async function request<T>(
 }
 
 export const coursePath = (id: string) => `/classes/${encodeURIComponent(id)}`
+export const askPath = (classId: string, file?: string) =>
+  `/ask?${new URLSearchParams({ class: classId, ...(file ? { file } : {}) })}`
 export const sourcePath = (classId: string, file: string, cardId?: string) =>
   `${coursePath(classId)}/source?${new URLSearchParams({ file, ...(cardId ? { card: cardId } : {}) })}`
 export const originalPath = (classId: string, file: string) =>

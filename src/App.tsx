@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { lazy, Suspense, useEffect } from 'react'
 import {
   Link,
   Navigate,
@@ -7,7 +7,7 @@ import {
   Routes,
   useLocation,
 } from 'react-router'
-import { FileText, Home, Link2 } from 'lucide-react'
+import { FileText, Home, Link2, MessageSquare } from 'lucide-react'
 import { useWorkspace } from '@/lib/workspace'
 import { cn } from '@/lib/utils'
 import {
@@ -20,9 +20,17 @@ import {
 import { StudyPage } from '@/pages/study'
 import { SourcePage } from '@/pages/source'
 
+const AskPage = lazy(() => import('@/pages/ask'))
+
 const navigation = [
   { to: '/', label: 'Overview', short: 'Home', icon: Home },
   { to: '/sources', label: 'Sources', short: 'Sources', icon: FileText },
+  {
+    to: '/ask',
+    label: 'Ask your sources',
+    short: 'Ask AI',
+    icon: MessageSquare,
+  },
   { to: '/link', label: 'My learning link', short: 'My link', icon: Link2 },
 ]
 
@@ -94,6 +102,14 @@ export function App() {
             <Route path="/classes/:classId/study" element={<StudyPage />} />
             <Route path="/classes/:classId/source" element={<SourcePage />} />
             <Route path="/sources" element={<SourcesPage />} />
+            <Route
+              path="/ask"
+              element={
+                <Suspense fallback={<p role="status">Loading source chat…</p>}>
+                  <AskPage />
+                </Suspense>
+              }
+            />
             <Route path="/link" element={<LearningLink />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
