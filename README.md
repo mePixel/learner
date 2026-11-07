@@ -22,6 +22,41 @@ npm start
 
 Use one server with persistent storage and HTTPS when hosting. `PORT` defaults to `3000`, `HOST` to `0.0.0.0`, and `DATA_DIR` to `./data`. Back up the whole data directory. Do not serve the app as a static-only site: progress and folder discovery need the server. SQLite is intended for a single server; use a shared database if you later run multiple server instances.
 
+## Cloudflare Workers
+
+The Cloudflare deployment runs `worker/index.mjs` for `/api/*`, stores learners and progress in D1, and streams original course files from a private R2 bucket. Text and Word previews are prepared during the build. The frontend and learner links work the same way as with the local Express server. Cloudflare classes are discovered at build time: adding or changing classes requires uploading their sources and redeploying.
+
+Workers and D1 have free plans. R2 Standard includes a free monthly allowance, but enabling R2 requires a billing subscription and usage beyond its allowance is billed. Videos cannot be deployed as Workers static assets because each asset is limited to 25 MiB. Git LFS stores the video in GitHub; R2 serves it to learners.
+
+One-time setup:
+
+```sh
+npm ci
+npx wrangler login
+npx wrangler d1 create learner --location weur
+```
+
+Set the resulting `database_id` in `wrangler.json`. Enable R2 in the Cloudflare dashboard, then create the bucket:
+
+```sh
+npx wrangler r2 bucket create learner-sources
+```
+
+Build, upload the original sources (including the LFS video), apply database migrations and deploy:
+
+```sh
+git lfs pull
+npm run build
+npm run upload:sources
+npm run deploy
+```
+
+For Cloudflare Git builds, set the **build command** to `git lfs pull && npm run build` and the **deploy command** to `npm run deploy`. The build environment must have Git LFS available. Upload source changes with `npm run upload:sources` before deploying the updated catalog. Keep preview builds disabled until they have separate D1 and R2 bindings; otherwise previews share production data. The Worker must deploy with its checked-in configuration, including `main`, `DB`, `SOURCES`, and `/api/*` routing; uploading only `dist` does not deploy the API.
+
+Existing local SQLite progress is not copied into D1 automatically. Keep `data/` and your saved learning links if you need to migrate existing learners. Database migrations create tables without deleting data.
+
+Run `npm run test:worker` to check the Cloudflare API against local D1 and R2 emulators, including learner isolation, concurrent retries, validation and source byte ranges. These tests do not access your Cloudflare account.
+
 ## Add a class
 
 Create a folder inside `Classes`. It appears automatically, including when empty. The browser refreshes the catalog every 30 seconds, when refocused, or with **Refresh classes**. No source-code edit or rebuild is needed. In production, add the folder on the server as well.

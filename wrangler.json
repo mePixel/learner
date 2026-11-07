@@ -1,8 +1,25 @@
 {
   "name": "learner",
+  "main": "worker/index.mjs",
   "compatibility_date": "2026-11-07",
+  "workers_dev": false,
+  "routes": [
+    { "pattern": "learner.xaxa.at", "custom_domain": true }
+  ],
   "assets": {
     "directory": "./dist",
-    "not_found_handling": "single-page-application"
-  }
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "learner",
+      "database_id": "26abe862-b037-40c2-88e2-d982ead51bb5"
+    }
+  ],
+  "r2_buckets": [
+    { "binding": "SOURCES", "bucket_name": "learner-sources" }
+  ]
 }

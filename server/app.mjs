@@ -4,17 +4,10 @@ import { createHash, randomBytes, randomUUID } from 'node:crypto'
 import { readFile } from 'node:fs/promises'
 import path from 'node:path'
 import mammoth from 'mammoth'
-import { z } from 'zod'
 import { loadCatalog, resolveSource } from './content.mjs'
+import { nameSchema, reviewSchema } from './validation.mjs'
 
 const hash = (token) => createHash('sha256').update(token).digest('hex')
-const nameSchema = z.object({ name: z.string().trim().min(1).max(60) })
-const reviewSchema = z.object({
-  eventId: z.string().regex(/^[a-f0-9]{32}$/),
-  classId: z.string().min(1).max(255),
-  cardId: z.string().min(1).max(100),
-  rating: z.enum(['again', 'known']),
-})
 
 export function createApp({ classesRoot, databasePath = ':memory:' }) {
   const app = express()
