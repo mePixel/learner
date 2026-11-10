@@ -1,0 +1,4 @@
+interface:
+  display_name: "/create"
+  short_description: "Create source-backed flashcards for any class"
+  default_prompt: "Use $create to make flashcards from new source material for a new or existing class, preserving existing cards and progress."

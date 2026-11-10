@@ -1,6 +1,6 @@
 import { test } from 'node:test'
 import assert from 'node:assert/strict'
-import { mkdtemp, mkdir, writeFile, rm, symlink } from 'node:fs/promises'
+import { mkdtemp, mkdir, readFile, writeFile, rm, symlink } from 'node:fs/promises'
 import { tmpdir } from 'node:os'
 import path from 'node:path'
 import { randomBytes } from 'node:crypto'
@@ -31,9 +31,11 @@ test('all supplied cards have unique IDs, source files, questions, answers and e
   const course = catalog.find((course) => course.id === 'Innovationsmanagment')
   assert.ok(course)
   assert.deepEqual(course.errors, [])
-  assert.equal(course.cards.length, 48)
-  assert.equal(course.sources.length, 7)
-  assert.equal(new Set(course.cards.map((card) => card.id)).size, 48)
+  const originalCards = JSON.parse(await readFile(path.join(classesRoot, course.id, 'flashcards.json'), 'utf8'))
+  assert.ok(course.cards.length >= originalCards.length)
+  assert.ok(originalCards.every((original) => course.cards.some((card) => card.id === original.id)))
+  assert.ok(course.sources.length >= 7)
+  assert.equal(new Set(course.cards.map((card) => card.id)).size, course.cards.length)
   for (const card of course.cards) {
     assert.ok(card.answer && card.question && card.source.quote)
     assert.ok(await resolveSource(classesRoot, course.id, card.source.file))

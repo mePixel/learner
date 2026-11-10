@@ -1,0 +1,442 @@
+[
+  {
+    "id": "ethik-gutes-leben",
+    "topic": "Grundlagen der Technikethik",
+    "question": "Welche Grundfrage untersucht Ethik laut den Folien?",
+    "answer": "Ethik untersucht reflektiert, was ein gutes Leben bedeutet und wie es erreicht werden kann. Damit hilft sie, gute und schlechte Wirkungen von Technologien begründet zu unterscheiden.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 57,
+      "quote": "ethics is the reflected investigation of the question of what a good life means and how it can be achieved."
+    }
+  },
+  {
+    "id": "ethik-ambivalenz-technologie",
+    "topic": "Grundlagen der Technikethik",
+    "question": "Warum müssen Technologien ethisch bewertet werden, statt sie pauschal als gut oder schlecht einzuordnen?",
+    "answer": "Technologien können gute, schlechte oder gleichzeitig gute und schlechte Auswirkungen haben. Eine ethische Bewertung muss deshalb ihre konkreten Wirkungen betrachten.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 56,
+      "quote": "Technology can have bad good impacts and / or"
+    }
+  },
+  {
+    "id": "ethik-jonas-langzeitverantwortung",
+    "topic": "Hans Jonas",
+    "question": "Worauf richtet Hans Jonas die Verantwortung im Umgang mit Technologien?",
+    "answer": "Auf die langfristigen Auswirkungen menschlichen Handelns. Die Verantwortung reicht damit über unmittelbar sichtbare Folgen hinaus.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 5,
+      "quote": "Responsibility for Long - term impact"
+    }
+  },
+  {
+    "id": "ethik-jonas-verantwortungsimperativ",
+    "topic": "Hans Jonas",
+    "question": "Wie lautet der Kerngedanke von Hans Jonas’ Verantwortungsimperativ?",
+    "answer": "Handle so, dass die Wirkungen deines Handelns mit dem Fortbestand echten menschlichen Lebens auf der Erde vereinbar sind.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 9,
+      "quote": "Handle so, dass die Wirkungen deiner Handlung verträglich sind mit der Permanenz echten menschlichen Lebens auf Erden."
+    }
+  },
+  {
+    "id": "ethik-jonas-technische-macht",
+    "topic": "Hans Jonas",
+    "question": "Warum verlangt die gewachsene technische Macht nach Jonas nach einer entsprechenden Ethik?",
+    "answer": "Wissenschaft und wirtschaftlicher Antrieb verleihen dem Menschen große Handlungsmacht. Eine Ethik soll diese Macht freiwillig begrenzen, damit sie dem Menschen nicht zum Unheil wird.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 6,
+      "quote": "ruft nach einer Ethik, die durch freiwillige Zügel seine Macht davor zurückhält, dem Menschen zum Unheil zu werden"
+    }
+  },
+  {
+    "id": "ethik-wiener-kybernetik",
+    "topic": "Norbert Wiener",
+    "question": "Für welche Forschungsgebiete bildet die Kybernetik laut den Folien eine geistige Grundlage?",
+    "answer": "Für moderne Informatik, Systemtheorie, Robotik, künstliche Intelligenz und Neurowissenschaften.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 12,
+      "quote": "intellectual foundations for modern computer science , systems theory, robotics , artificial intelligence , and neuroscience."
+    }
+  },
+  {
+    "id": "ethik-wiener-chancen-risiken",
+    "topic": "Norbert Wiener",
+    "question": "Welche ethische Ambivalenz erkennt Wiener in leistungsfähigen künstlichen Maschinen?",
+    "answer": "Ihre Leistungsfähigkeit eröffnet eine gesellschaftliche Wirkungsmacht von großer Bedeutung sowohl zum Guten als auch zum Schlechten. Technischer Fortschritt allein garantiert daher keine guten Folgen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 13,
+      "quote": "another social potentiality of unheard - of importance for good and for evil."
+    }
+  },
+  {
+    "id": "ethik-wiener-menschlicher-gebrauch",
+    "topic": "Norbert Wiener",
+    "question": "Wo verortet Wiener die gesellschaftliche Gefahr einer Maschine?",
+    "answer": "Nicht allein in der Maschine selbst, sondern darin, was Menschen aus ihr machen und wie sie sie verwenden. Damit rückt die menschliche Nutzung in den Mittelpunkt der Verantwortung.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 15,
+      "quote": "The machine’s danger to society is not from the machine itself but from what man makes of it."
+    }
+  },
+  {
+    "id": "ethik-wiener-kernfragen",
+    "topic": "Norbert Wiener",
+    "question": "Welche drei Themen hebt die Vorlesung zu Wieners „The Human Use of Human Beings“ hervor?",
+    "answer": "Automatisierung und Arbeit, Verantwortung und Kontrolle sowie das Zusammenwirken von Menschen und Maschinen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 16,
+      "quote": "Automation and labor • Responsibility and control • Human machines symbiosis"
+    }
+  },
+  {
+    "id": "ethik-wiener-aufgabenverteilung",
+    "topic": "Norbert Wiener",
+    "question": "Welche Leitfrage steckt hinter Wieners Forderung, Menschliches dem Menschen und Rechnerisches dem Computer zu überlassen?",
+    "answer": "Welche Aufgaben dem Menschen und welche dem Computer zukommen sollen. Die technische Möglichkeit einer Automatisierung ersetzt diese Abgrenzung nicht.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 18,
+      "quote": "Render unto man the things which are man's and unto the computer the things which are the computer's."
+    }
+  },
+  {
+    "id": "ethik-weizenbaum-entscheiden-waehlen",
+    "topic": "Joseph Weizenbaum",
+    "question": "Wie unterscheidet Weizenbaum „deciding“ und „choosing“?",
+    "answer": "„Deciding“ ist ein berechenbarer, automatisierter Prozess nach formalen Regeln. „Choosing“ ist dagegen ein menschlicher Akt, der Urteilskraft, Werte und Verantwortung einbezieht.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 24,
+      "quote": "Deciding Computational process, calculated, automated, based on formal rules Choosing Human act. Involves judgment, values and responsibility."
+    }
+  },
+  {
+    "id": "ethik-weizenbaum-gute-fragen",
+    "topic": "Joseph Weizenbaum",
+    "question": "Welche Bedeutung haben gute Fragen für die Informationssuche im Internet nach Weizenbaums Gegenüberstellung von Müll und Perlen?",
+    "answer": "Trotz vieler wertloser Inhalte lassen sich wertvolle Informationen finden. Wer gelernt hat, gute Fragen zu formulieren, kann diese „Perlen“ gezielter entdecken.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 22,
+      "quote": "There are gold mines and pearls in there that a person trained to design good questions can find."
+    }
+  },
+  {
+    "id": "ethik-moor-logische-formbarkeit",
+    "topic": "James Moor",
+    "question": "Was macht die „logical malleability“ von Computern nach Moor so folgenreich?",
+    "answer": "Ihre logische Formbarkeit ermöglicht ein sehr breites Anwendungsspektrum. Computertechnologie kann dadurch in viele menschliche Tätigkeiten und gesellschaftliche Institutionen eingreifen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 28,
+      "quote": "Logical malleability assures the enormous application of computer technology."
+    }
+  },
+  {
+    "id": "ethik-moor-regelungsluecken",
+    "topic": "James Moor",
+    "question": "Warum entstehen nach Moor bei der Nutzung neuer Computertechnologien ethische Regelungsprobleme?",
+    "answer": "Der technologische Wandel verändert Tätigkeiten und Institutionen. Dabei entstehen „policy and conceptual vacuums“: Es fehlen passende Regeln und klare begriffliche Orientierungen für den Umgang mit neuen Anwendungen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 28,
+      "quote": "These transformations will leave us with policy and conceptual vacuums about how to use computer technology ."
+    }
+  },
+  {
+    "id": "ethik-moor-gesellschaftlicher-wandel",
+    "topic": "James Moor",
+    "question": "Warum betrifft die Computerrevolution nach Moor mehr als nur technische Geräte?",
+    "answer": "Sie verändert viele menschliche Aktivitäten und soziale Institutionen. Computerethik muss deshalb auch die gesellschaftlichen Folgen dieser Veränderungen berücksichtigen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 28,
+      "quote": "During the Computer Revolution many of our human activities and social institutions will be transformed."
+    }
+  },
+  {
+    "id": "ethik-agenten-vier-stufen",
+    "topic": "Ethische Handlungsfähigkeit",
+    "question": "Welche vier Stufen ethischer Handlungsfähigkeit unterscheidet das Modell der Folien?",
+    "answer": "Ethical impact agents, implicit ethical agents, explicit ethical agents und full ethical agents: von bloßen moralischen Auswirkungen über eingebaute Grenzen und ethisches Schlussfolgern bis zu vollständiger moralischer Handlungsfähigkeit.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 40,
+      "quote": "Full ethical Explicit ethical Implicit ethical Ethical impact"
+    }
+  },
+  {
+    "id": "ethik-agenten-wirkung",
+    "topic": "Ethische Handlungsfähigkeit",
+    "question": "Was kennzeichnet die unterste Stufe „ethical impact“ im Modell der Folien?",
+    "answer": "Ein System hat moralisch relevante Folgen. Daraus folgt noch nicht, dass es eingebaute ethische Beschränkungen besitzt oder selbst ethisch schlussfolgert.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 39,
+      "quote": "Has moral consequences"
+    }
+  },
+  {
+    "id": "ethik-agenten-implizit",
+    "topic": "Ethische Handlungsfähigkeit",
+    "question": "Was macht einen impliziten ethischen Agenten aus?",
+    "answer": "Er enthält eingebaute ethische Beschränkungen. Das System ist entsprechend gestaltet, ohne selbst anhand ethischer Prinzipien schlussfolgern zu müssen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 39,
+      "quote": "Contains built-in ethical constraints"
+    }
+  },
+  {
+    "id": "ethik-agenten-explizit",
+    "topic": "Ethische Handlungsfähigkeit",
+    "question": "Welche zusätzliche Fähigkeit kennzeichnet einen expliziten ethischen Agenten?",
+    "answer": "Er kann anhand ethischer Prinzipien schlussfolgern. Das geht über das bloße Einhalten eingebauter Beschränkungen hinaus.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 39,
+      "quote": "Reasons based on ethical principles"
+    }
+  },
+  {
+    "id": "ethik-agenten-vollstaendig",
+    "topic": "Ethische Handlungsfähigkeit",
+    "question": "Welches Merkmal unterscheidet vollständige von expliziten ethischen Agenten in der Tabelle der Folien?",
+    "answer": "Bewusstsein: Im Folienmodell besitzt ein vollständiger ethischer Agent Bewusstsein, ein expliziter dagegen nicht. Ethisches Schlussfolgern und eingebaute ethische Beschränkungen haben beide. Das ist eine Unterscheidung des Modells, keine Behauptung über das Bewusstsein heutiger KI.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 40,
+      "quote": "Has consciousness Full ethical Explicit ethical"
+    }
+  },
+  {
+    "id": "ethik-agenten-implizite-beispiele",
+    "topic": "Ethische Handlungsfähigkeit",
+    "question": "Warum veranschaulichen die abgebildete Not-Aus-Taste und Bremsfunktion implizite ethische Agenten?",
+    "answer": "Sie stehen für eingebaute Sicherheitsbeschränkungen. Solche Grenzen können Schaden verhindern, ohne dass das System selbst moralische Überlegungen anstellen muss.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 35,
+      "quote": "Implicit ethical agents"
+    }
+  },
+  {
+    "id": "ethik-asimov-prioritaeten",
+    "topic": "Robotikethik",
+    "question": "Welche Prioritätsfolge haben Asimovs drei fiktive Robotergesetze?",
+    "answer": "Zuerst steht der Schutz von Menschen, danach der Gehorsam gegenüber menschlichen Befehlen und zuletzt die eigene Erhaltung des Roboters. Ein niedrigeres Gesetz darf einem höheren nicht widersprechen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 37,
+      "quote": "A robot must protect its own existence as long as such protection does not conflict with the First or Second Law."
+    }
+  },
+  {
+    "id": "ethik-asimov-untaetigkeit",
+    "topic": "Robotikethik",
+    "question": "Warum erfasst Asimovs erstes fiktives Robotergesetz auch Untätigkeit?",
+    "answer": "Ein Roboter darf einen Menschen nicht nur nicht verletzen; er darf auch nicht durch Untätigkeit zulassen, dass ein Mensch zu Schaden kommt.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 37,
+      "quote": "A robot may not injure a human being or, through inaction, allow a human being to come to harm."
+    }
+  },
+  {
+    "id": "ethik-asimov-gehorsam",
+    "topic": "Robotikethik",
+    "question": "Welche Grenze setzt Asimovs zweites fiktives Robotergesetz dem Gehorsam?",
+    "answer": "Ein Roboter soll menschlichen Befehlen gehorchen, außer wenn diese Befehle dem ersten Gesetz zum Schutz von Menschen widersprechen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 37,
+      "quote": "A robot must obey the orders given it by human beings except where such orders would conflict with the First Law."
+    }
+  },
+  {
+    "id": "ethik-asimov-selbsterhaltung",
+    "topic": "Robotikethik",
+    "question": "Wann darf ein Roboter nach Asimovs drittem fiktivem Robotergesetz seine eigene Existenz schützen?",
+    "answer": "Solange dies weder dem ersten noch dem zweiten Gesetz widerspricht. Selbsterhaltung ist dem Menschenschutz und dem zulässigen Gehorsam nachgeordnet.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 37,
+      "quote": "A robot must protect its own existence as long as such protection does not conflict with the First or Second Law."
+    }
+  },
+  {
+    "id": "ethik-orwell-ueberwachung",
+    "topic": "Überwachung und Macht",
+    "question": "Welche vier Themen aus Orwells Überwachungsdystopie hebt die Vorlesung hervor?",
+    "answer": "Ständige Überwachung, Macht und Informationskontrolle, Verhaltensmanipulation sowie Sprachkontrolle.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 43,
+      "quote": "Constant surveillance • Power and information control • Behavioural manipulation • Language control"
+    }
+  },
+  {
+    "id": "ethik-snowden-whistleblowing",
+    "topic": "Überwachung und Macht",
+    "question": "Welche Rolle spielt Edward Snowden im historischen Überblick zur digitalen Ethik?",
+    "answer": "Die Folien stellen ihn als ehemaligen NSA-Auftragnehmer und Whistleblower vor, der 2013 eine große Sammlung vertraulicher Dokumente offenlegte.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 44,
+      "quote": "2013: disclosure of large collection of confidential documents"
+    }
+  },
+  {
+    "id": "ethik-zuboff-ueberwachungskapitalismus",
+    "topic": "Überwachungskapitalismus",
+    "question": "Was versteht die Vorlesung unter Überwachungskapitalismus nach Zuboff?",
+    "answer": "Ein Wirtschaftssystem, in dem Unternehmen persönliche Daten sammeln, analysieren und gewinnbringend nutzen, oft ohne vollständige Kenntnis oder Zustimmung der betroffenen Nutzer.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 47,
+      "quote": "A new economic system where companies collect, analyze, and profit from personal data — often without users' full awareness or consent."
+    }
+  },
+  {
+    "id": "ethik-zuboff-datenextraktion",
+    "topic": "Überwachungskapitalismus",
+    "question": "Welche Funktion hat Datenextraktion im Überwachungskapitalismus?",
+    "answer": "Unternehmen sammeln große Mengen an Verhaltensdaten ihrer Nutzer. Diese Daten bilden die Grundlage für die weiteren wirtschaftlichen Auswertungen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 47,
+      "quote": "Companies (especially tech giants) gather vast amounts of behavioral data from users."
+    }
+  },
+  {
+    "id": "ethik-zuboff-prognoseprodukte",
+    "topic": "Überwachungskapitalismus",
+    "question": "Was sind „prediction products“ im beschriebenen Überwachungskapitalismus?",
+    "answer": "Aus Verhaltensdaten gewonnene Vorhersagen, die dazu dienen, künftiges Verhalten vorherzusagen und zu beeinflussen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 47,
+      "quote": "This data is used to predict and influence future behavior."
+    }
+  },
+  {
+    "id": "ethik-zuboff-profitmodell",
+    "topic": "Überwachungskapitalismus",
+    "question": "Wie werden Verhaltensvorhersagen im beschriebenen Geschäftsmodell zu Gewinn?",
+    "answer": "Die Vorhersagen werden an Werbetreibende und andere Dritte verkauft. Ihr wirtschaftlicher Wert ist damit ein zentrales Motiv der Datenauswertung.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 47,
+      "quote": "These predictions are sold to advertisers and other third parties for profit."
+    }
+  },
+  {
+    "id": "ethik-zuboff-autonomie",
+    "topic": "Überwachungskapitalismus",
+    "question": "Welche Gefahr für die Autonomie beschreibt Zuboffs Kritik am Überwachungskapitalismus?",
+    "answer": "Macht verschiebt sich von einzelnen Menschen zu Unternehmen. Dadurch können Privatsphäre und persönliche Freiheit geschwächt werden.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 47,
+      "quote": "It shifts power from individuals to corporations, eroding privacy and personal freedom."
+    }
+  },
+  {
+    "id": "ethik-social-media-ambivalenz",
+    "topic": "Soziale Medien",
+    "question": "Welche Ambivalenz sozialer Medien zeigt die Gegenüberstellung der Folien?",
+    "answer": "Soziale Medien können Menschen verbinden. Zugleich nennen die Folien psychische Probleme, eine Destabilisierung der Demokratie sowie Extremisierung und Polarisierung als negative Wirkungen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 58,
+      "quote": "connecting people mental illnesses destabilisation of democracy extremisation and polarisation"
+    }
+  },
+  {
+    "id": "ethik-social-media-risikobereiche",
+    "topic": "Soziale Medien",
+    "question": "Welche drei gesellschaftlichen Risikobereiche sozialer Medien nennt die Vorlesung?",
+    "answer": "Psychische Gesundheit, Demokratie und gesellschaftlicher Zusammenhalt. Die Folien behandeln diese Bereiche als Gründe für eine ethische Auseinandersetzung mit sozialen Medien.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 55,
+      "quote": "For mental Health • For Democracy • For social cohesion"
+    }
+  },
+  {
+    "id": "ethik-social-media-verhaltenswirkungen",
+    "topic": "Soziale Medien",
+    "question": "Welche vier problematischen Wirkungen stellt die Vorlesung der verbindenden Funktion digitaler Technologien gegenüber?",
+    "answer": "Sie können Menschen spalten, kontrollieren, manipulieren und monetarisieren.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 52,
+      "quote": "divides us • controls us • manipulates us • monetizes us"
+    }
+  },
+  {
+    "id": "ethik-vbe-drei-phasen",
+    "topic": "Value Based Engineering",
+    "question": "Welche drei Phasen unterscheidet Value Based Engineering in den Folien?",
+    "answer": "Concept and Context Exploration, Value Exploration und Ethically Aligned Design: Zuerst werden Vorhaben und Kontext geklärt, dann betroffene Werte untersucht und schließlich Werte in die Systemgestaltung integriert.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 59,
+      "quote": "Concept and Context Exploration What do we want to develop? Value Exploration Which values are affected? Ethically alligned Design How to integrate values into the system?"
+    }
+  },
+  {
+    "id": "ethik-vbe-konzept-kontext",
+    "topic": "Value Based Engineering",
+    "question": "Welche Leitfrage gehört zur „Concept and Context Exploration“?",
+    "answer": "Was wollen wir entwickeln? In dieser Phase werden Konzept und Kontext des Vorhabens erkundet.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 59,
+      "quote": "Concept and Context Exploration What do we want to develop?"
+    }
+  },
+  {
+    "id": "ethik-vbe-werte",
+    "topic": "Value Based Engineering",
+    "question": "Welche Leitfrage beantwortet die „Value Exploration“?",
+    "answer": "Welche Werte sind betroffen? Die Phase untersucht die für das Vorhaben relevanten Werte.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 59,
+      "quote": "Value Exploration Which values are affected?"
+    }
+  },
+  {
+    "id": "ethik-vbe-design",
+    "topic": "Value Based Engineering",
+    "question": "Worum geht es in der Phase „Ethically Aligned Design“?",
+    "answer": "Darum, wie die identifizierten Werte in das System integriert werden. Werte sollen sich damit in der konkreten Gestaltung niederschlagen.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 59,
+      "quote": "Ethically alligned Design How to integrate values into the system?"
+    }
+  },
+  {
+    "id": "ethik-christliche-soziallehre-kriterien",
+    "topic": "Ethische Bewertungskriterien",
+    "question": "Welche sechs Kriterien der christlichen Soziallehre nennt die abschließende Folie?",
+    "answer": "Menschenwürde, Gemeinwohl, allgemeine Bestimmung der Güter, Subsidiarität, Solidarität und soziale Gerechtigkeit.",
+    "source": {
+      "file": "Sources/FH WN Ethische Aspekte Einfuehrung.pdf",
+      "page": 61,
+      "quote": "Dignity • Common good • General determination of goods • Subsidiarity • Solidarity • Social justice"
+    }
+  }
+]

@@ -23,9 +23,10 @@ test('Worker preserves learner isolation, atomic review retries, validation and 
     const text = await response.text()
     return { status: response.status, headers: response.headers, data: text ? JSON.parse(text) : null }
   }
-  const course = content.catalog[0]
+  const course = content.catalog.find((course) => course.id === 'Innovationsmanagment')
+  assert.ok(course)
   const cardId = course.cards[0].id
-  assert.equal((await call('/api/catalog')).data[0].cards.length, 48)
+  assert.deepEqual((await call('/api/catalog')).data, content.catalog)
   const a = (await call('/api/learners', { body: { name: 'Alex' } })).data
   const b = (await call('/api/learners', { body: { name: 'Sam' } })).data
   assert.match(a.token, /^[A-Za-z0-9_-]{43}$/)
